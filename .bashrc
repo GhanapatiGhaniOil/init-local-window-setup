@@ -4,6 +4,7 @@ export PATH APPS_DIR JAVA_HOME M2_HOME NPM_HOME MAVEN_OPTS KAFKA_HOME GIT_HOME K
 
 # We recommend you install all Java related software unser one directory and cerate symbolic links
 # to the current release for each package.
+#
 
 APPS_DIR=$HOME/apps
 
